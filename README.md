@@ -1,6 +1,6 @@
 ## Rethinking Decision Transformer via Hierarchical Reinforcement Learning
 
-This is the original implementation for paper
+This is the official implementation for paper
 
 
 
